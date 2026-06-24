@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: reactormod
+Specification-Vendor: Dragonman26659, Randompr0person
+Specification-Version: 1
+Implementation-Title: Create-Realistic_Reactors
+Implementation-Version: 1.0.0
+Implementation-Vendor: Dragonman26659, Randompr0person
+

@@ -1,0 +1,17 @@
+mod_loader="forge"
+loader_version="[1.21.1]"
+license="MIT"
+modid="net.nnk.ReactorMod"
+
+
+
+
+
+
+[[
+dependencies.create
+]]
+mod_id="create"
+mandatory=true
+version_range=">=1.0.0"
+ordering="NONE"
